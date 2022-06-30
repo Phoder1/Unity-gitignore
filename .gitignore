@@ -57,6 +57,7 @@ crashlytics-build.properties
 
 # Packed Addressables
 /[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+ServerData/
 
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
@@ -114,3 +115,4 @@ Assets/PlayFabEditorExtensions/Editor/Resources/PlayFabUnitySdk.unitypackage.met
 # Each client can calculate the cache for himself
 Assets/FR2_Cache.asset
 Assets/FR2_Cache.asset.meta
+.gitignore.bak
