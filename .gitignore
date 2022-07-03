@@ -116,3 +116,4 @@ Assets/PlayFabEditorExtensions/Editor/Resources/PlayFabUnitySdk.unitypackage.met
 Assets/FR2_Cache.asset
 Assets/FR2_Cache.asset.meta
 .gitignore.bak
+**\[Cc]redentials.*
